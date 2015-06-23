@@ -21,8 +21,8 @@ from BeautifulSoup import BeautifulSoup
 h = HTMLParser.HTMLParser()
 
 
-versao = '1.0.9'
-addon_id = 'plugin.video.roggerstream'
+versao = '1.0.0'
+addon_id = 'plugin.video.iptvbrasil'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonfolder = selfAddon.getAddonInfo('path')
 artfolder = addonfolder + '/resources/img/'
