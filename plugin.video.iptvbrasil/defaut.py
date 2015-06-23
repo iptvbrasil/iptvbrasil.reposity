@@ -41,17 +41,7 @@ def  menus():
 
 def  categorias():
 	addDir('CANAIS ABERTOS DO BRASIL','https://copy.com/Nlyj6xxWlRFKdinh?download=1',6,'http://2.bp.blogspot.com/_zd7QgU2t7C8/TDNrcJpgTNI/AAAAAAAAAIE/mu4_ps1lrr8/s1600/Emissoras+no+c%C3%A9u.png')
-	addDir('TV PAGA BRASIL','-',5,'http://i.ytimg.com/vi/QdrmV91uNn0/maxresdefault.jpg')
-	addDir('SÉRIES E DESENHOS 24 HORAS','https://copy.com/nEagWXhOC1s7dlyO?download=1',6,'http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados-620x289.jpg')
 	addDir('ADULTOS','https://copy.com/UCUa6advfP0ju9Ts?download=1',6,'http://douglasduffor.com.br/spicie.jpg')
-	addDir('CAÇA E PESCA','https://copy.com/b6uCi8jKTmq24wLy?download=1',6,'http://www.ipesque.com.br/images/clientes/perfil/1454_1,11,2011,141022985_foto1.jpg')
-	addDir('CANAIS LATINOS','https://copy.com/tapliy8nIaKSLDQq?download=1',6,'http://www.adquieralo.com/imagenes/banderas-latinas.png')
-	addDir('CANAIS DE PORTUGAL','https://copy.com/unoGFK2bL8ZJ0iHD?download=1',6,'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJDrJdCWYyLDMVxdvWQ5SMqDCB6C59_RWBZbxahkzrYVAECA_j_Q')
-	addDir('WEBCAMS','https://copy.com/Ywh4MnZQqy2R7M8P?download=1',6,'https://cdn2.iconfinder.com/data/icons/communication-14/512/Webcam-512.png')
-	addDir('CANAIS HD','https://copy.com/VMoOgU8UDvAgfjv0?download=1',6,'http://www.weddingsipa.com/images/new_hd_logo.jpg')
-	addDir('MÚSICAS E VIDEOCLIPES','https://copy.com/1cvRyOdMSOCSBH70?download=1',6,'http://www.aitechautomacao.com.br/images/musica.png')
-	addDir('ESPORTES INTERNACIONAIS','https://copy.com/bIIpBHwFbXMXOBBB?download=1',6,'http://s.glbimg.com/es/ge/f/original/2012/03/05/mascote_esporte_todos.jpg')
-	addDir('RÁDIOS','https://copy.com/znUclLey0qF30gSd?download=1',6,'http://s.glbimg.com/po/tt/f/original/2013/10/21/011787436-radio-station-microphone.jpeg')
 	
 	
 
