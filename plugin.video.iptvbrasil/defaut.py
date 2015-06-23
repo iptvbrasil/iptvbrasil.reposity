@@ -43,6 +43,7 @@ def  categorias():
 	addDir('CANAIS ABERTOS DO BRASIL','https://copy.com/Nlyj6xxWlRFKdinh?download=1',6,'http://2.bp.blogspot.com/_zd7QgU2t7C8/TDNrcJpgTNI/AAAAAAAAAIE/mu4_ps1lrr8/s1600/Emissoras+no+c%C3%A9u.png')
 	addDir('TV PAGA BRASIL','-',5,'http://i.ytimg.com/vi/QdrmV91uNn0/maxresdefault.jpg')
 	addDir('SÉRIES E DESENHOS 24 HORAS','https://copy.com/nEagWXhOC1s7dlyO?download=1',6,'http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados-620x289.jpg')
+	addDir('ADULTOS','http://douglasduffor.com.br/Acanais.txt',6,'http://douglasduffor.com.br/spicie.jpg')
 	addDir('CAÇA E PESCA','https://copy.com/b6uCi8jKTmq24wLy?download=1',6,'http://www.ipesque.com.br/images/clientes/perfil/1454_1,11,2011,141022985_foto1.jpg')
 	addDir('CANAIS LATINOS','https://copy.com/tapliy8nIaKSLDQq?download=1',6,'http://www.adquieralo.com/imagenes/banderas-latinas.png')
 	addDir('CANAIS DE PORTUGAL','https://copy.com/unoGFK2bL8ZJ0iHD?download=1',6,'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJDrJdCWYyLDMVxdvWQ5SMqDCB6C59_RWBZbxahkzrYVAECA_j_Q')
