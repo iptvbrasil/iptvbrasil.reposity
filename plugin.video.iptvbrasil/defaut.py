@@ -40,20 +40,19 @@ def  menus():
 	
 
 def  categorias():
-	addDir('CANAIS ABERTOS DO BRASIL','https://copy.com/Nlyj6xxWlRFKdinh?download=1',6,'http://2.bp.blogspot.com/_zd7QgU2t7C8/TDNrcJpgTNI/AAAAAAAAAIE/mu4_ps1lrr8/s1600/Emissoras+no+c%C3%A9u.png')
-	addDir('ADULTOS','https://copy.com/UCUa6advfP0ju9Ts?download=1',6,'http://douglasduffor.com.br/spicie.jpg')
-	
-	
-
-
-def  categorias_tv_paga_brasil():
-	addDir('DOCUMENTÁRIOS','https://copy.com/u3fZuJaCSqXQUNuk?download=1',6,'http://noticias.universia.com.br/br/images/docentes/d/do/doc/documentarios-que-irao-mudar-sua-vida-noticias.jpg')
+    addDir('DOCUMENTÁRIOS','https://copy.com/u3fZuJaCSqXQUNuk?download=1',6,'http://noticias.universia.com.br/br/images/docentes/d/do/doc/documentarios-que-irao-mudar-sua-vida-noticias.jpg')
 	addDir('ESPORTES','https://copy.com/342Ys8apG9i2Ar9J?download=1',6,'http://ufrb.edu.br/propaae/images/stories/imagem%20-%20esportes.png')	
 	addDir('FILMES E SÉRIES','https://copy.com/qaC2wr0YHQ3cWgN3?download=1',6,'http://wp.clicrbs.com.br/matine/files/2011/02/pipoca.jpg')
 	addDir('INFANTIL','https://copy.com/FH28QXuLwrJY9cXS?download=1',6,'https://operanick.files.wordpress.com/2013/03/audiencia-tv-paga-mar13.jpg')	
 	addDir('NOTÍCIAS','https://copy.com/r19WdvfFW4xP7h7Q?download=1',6,'http://mataroma.com/img/luis%20carlos.jpg')
 	addDir('RELIGIOSOS','https://copy.com/S6Jm2vh2DYJDTEwJ?download=1',6,'http://amdanon.files.wordpress.com/2009/04/tvporassinatura.jpg')
 	addDir('VARIEDADES','https://copy.com/DUKhtoZqYdjklcOa?download=1',6,'http://rnnoticiastv.files.wordpress.com/2011/09/variedades.jpg')	
+    addDir('ADULTOS','https://copy.com/ZSG1xS89CkoyZeW7?download=1',6,'http://douglasduffor.com.br/spicie.jpg')
+	
+	
+
+
+def  categorias_tv_paga_brasil():
 	
 	
 def listar_canais(url):
