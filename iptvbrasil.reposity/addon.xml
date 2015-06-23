@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="iptvbrasil.reposity" name="IPTV Brasil Repository" version="0.0.1" provider-name="iptvbrasil">
+	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
+		<info compressed="false">http://raw.github.com/iptvbrasil/iptvbrasil.reposity/master/addons.xml</info>
+		<checksum>http://raw.github.com/iptvbrasil/iptvbrasil.reposity/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/iptvbrasil/iptvbrasil.reposity/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>IPTV Brasil Repository</summary>
+		<description>Canais do Mundo em um so Lugar.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
