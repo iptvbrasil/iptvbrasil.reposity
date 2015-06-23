@@ -21,7 +21,7 @@ from BeautifulSoup import BeautifulSoup
 h = HTMLParser.HTMLParser()
 
 
-versao = '1.0.1'
+versao = '1.0.2'
 addon_id = 'plugin.video.iptvbrasil'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 addonfolder = selfAddon.getAddonInfo('path')
@@ -40,19 +40,29 @@ def  menus():
 	
 
 def  categorias():
-    addDir('DOCUMENTÁRIOS','https://copy.com/u3fZuJaCSqXQUNuk?download=1',6,'http://noticias.universia.com.br/br/images/docentes/d/do/doc/documentarios-que-irao-mudar-sua-vida-noticias.jpg')
+	addDir('CANAIS ABERTOS DO BRASIL','https://copy.com/Nlyj6xxWlRFKdinh?download=1',6,'http://2.bp.blogspot.com/_zd7QgU2t7C8/TDNrcJpgTNI/AAAAAAAAAIE/mu4_ps1lrr8/s1600/Emissoras+no+c%C3%A9u.png')
+	addDir('TV PAGA BRASIL','-',5,'http://i.ytimg.com/vi/QdrmV91uNn0/maxresdefault.jpg')
+	addDir('SÉRIES E DESENHOS 24 HORAS','https://copy.com/nEagWXhOC1s7dlyO?download=1',6,'http://ccaa2013.s3.amazonaws.com/ccaa2014/canalccaa/wp-content/blogs.dir/3/files/2014/01/melhores-desenhos-animados-620x289.jpg')
+	addDir('CAÇA E PESCA','https://copy.com/b6uCi8jKTmq24wLy?download=1',6,'http://www.ipesque.com.br/images/clientes/perfil/1454_1,11,2011,141022985_foto1.jpg')
+	addDir('CANAIS LATINOS','https://copy.com/tapliy8nIaKSLDQq?download=1',6,'http://www.adquieralo.com/imagenes/banderas-latinas.png')
+	addDir('CANAIS DE PORTUGAL','https://copy.com/unoGFK2bL8ZJ0iHD?download=1',6,'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJDrJdCWYyLDMVxdvWQ5SMqDCB6C59_RWBZbxahkzrYVAECA_j_Q')
+	addDir('WEBCAMS','https://copy.com/Ywh4MnZQqy2R7M8P?download=1',6,'https://cdn2.iconfinder.com/data/icons/communication-14/512/Webcam-512.png')
+	addDir('CANAIS HD','https://copy.com/VMoOgU8UDvAgfjv0?download=1',6,'http://www.weddingsipa.com/images/new_hd_logo.jpg')
+	addDir('MÚSICAS E VIDEOCLIPES','https://copy.com/1cvRyOdMSOCSBH70?download=1',6,'http://www.aitechautomacao.com.br/images/musica.png')
+	addDir('ESPORTES INTERNACIONAIS','https://copy.com/bIIpBHwFbXMXOBBB?download=1',6,'http://s.glbimg.com/es/ge/f/original/2012/03/05/mascote_esporte_todos.jpg')
+	addDir('RÁDIOS','https://copy.com/znUclLey0qF30gSd?download=1',6,'http://s.glbimg.com/po/tt/f/original/2013/10/21/011787436-radio-station-microphone.jpeg')
+	
+	
+
+
+def  categorias_tv_paga_brasil():
+	addDir('DOCUMENTÁRIOS','https://copy.com/u3fZuJaCSqXQUNuk?download=1',6,'http://noticias.universia.com.br/br/images/docentes/d/do/doc/documentarios-que-irao-mudar-sua-vida-noticias.jpg')
 	addDir('ESPORTES','https://copy.com/342Ys8apG9i2Ar9J?download=1',6,'http://ufrb.edu.br/propaae/images/stories/imagem%20-%20esportes.png')	
 	addDir('FILMES E SÉRIES','https://copy.com/qaC2wr0YHQ3cWgN3?download=1',6,'http://wp.clicrbs.com.br/matine/files/2011/02/pipoca.jpg')
 	addDir('INFANTIL','https://copy.com/FH28QXuLwrJY9cXS?download=1',6,'https://operanick.files.wordpress.com/2013/03/audiencia-tv-paga-mar13.jpg')	
 	addDir('NOTÍCIAS','https://copy.com/r19WdvfFW4xP7h7Q?download=1',6,'http://mataroma.com/img/luis%20carlos.jpg')
 	addDir('RELIGIOSOS','https://copy.com/S6Jm2vh2DYJDTEwJ?download=1',6,'http://amdanon.files.wordpress.com/2009/04/tvporassinatura.jpg')
 	addDir('VARIEDADES','https://copy.com/DUKhtoZqYdjklcOa?download=1',6,'http://rnnoticiastv.files.wordpress.com/2011/09/variedades.jpg')	
-    addDir('ADULTOS','https://copy.com/ZSG1xS89CkoyZeW7?download=1',6,'http://douglasduffor.com.br/spicie.jpg')
-	
-	
-
-
-def  categorias_tv_paga_brasil():
 	
 	
 def listar_canais(url):
